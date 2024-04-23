@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AlunoTurma.Api.props" />
+</Project>

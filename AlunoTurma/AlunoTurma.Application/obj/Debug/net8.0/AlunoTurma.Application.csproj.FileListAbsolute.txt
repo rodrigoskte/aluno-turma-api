@@ -1,0 +1,12 @@
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\AlunoTurma.Application.deps.json
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\AlunoTurma.Application.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\AlunoTurma.Application.pdb
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\AlunoTurma.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\AlunoTurma.Application.AssemblyInfoInputs.cache
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\AlunoTurma.Application.AssemblyInfo.cs
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\AlunoTurma.Application.csproj.CoreCompileInputs.cache
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\AlunoTurma.Application.sourcelink.json
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\AlunoTurma.Application.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\refint\AlunoTurma.Application.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\AlunoTurma.Application.pdb
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\ref\AlunoTurma.Application.dll
