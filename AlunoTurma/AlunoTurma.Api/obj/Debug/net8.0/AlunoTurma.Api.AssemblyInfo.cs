@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlunoTurma.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fbcfead4344a1c9fa81d154dabf948a94c61efb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d251bad6f9e3470014e2b00292c825b04bb880f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlunoTurma.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlunoTurma.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

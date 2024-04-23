@@ -10,3 +10,15 @@ C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\refint\AlunoTurma.Application.dll
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\AlunoTurma.Application.pdb
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\ref\AlunoTurma.Application.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\AlunoTurma.Application.csproj.AssemblyReference.cache
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application\obj\Debug\net8.0\AlunoTur.C0C60A49.Up2Date

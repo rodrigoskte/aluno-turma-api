@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ANK4MeUDYuBnn92fOKUMagtvFSmS/MppV617rfdrGd5X1dQ5Y6WwDOuuRiWyL9KBvGKkWnZYfeYbPgR+/SPpCg==",
+  "dgSpecHash": "xZ7Uzlew6qU4+8aeHnCPrC3uLVhUv9AlRcG9JKRqrzMPjECA7pEDzemCExwttx0cKSIWkhONAzEMDbZlzR2sDQ==",
   "success": true,
   "projectFilePath": "C:\\Repos\\Git\\aluno-turma-api\\AlunoTurma\\AlunoTurma.Application.UnitTests\\AlunoTurma.Application.UnitTests.csproj",
   "expectedPackageFiles": [

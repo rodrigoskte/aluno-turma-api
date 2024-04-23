@@ -92,9 +92,9 @@ C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Deb
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Debug\net8.0\AlunoTurma.Application.UnitTests.AssemblyInfo.cs
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Debug\net8.0\AlunoTurma.Application.UnitTests.csproj.CoreCompileInputs.cache
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Debug\net8.0\AlunoTurma.Application.UnitTests.sourcelink.json
-C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Debug\net8.0\AlunoTurma.Application.UnitTests.csproj.CopyComplete
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Debug\net8.0\AlunoTurma.Application.UnitTests.dll
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Debug\net8.0\refint\AlunoTurma.Application.UnitTests.dll
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Debug\net8.0\AlunoTurma.Application.UnitTests.pdb
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Debug\net8.0\AlunoTurma.Application.UnitTests.genruntimeconfig.cache
 C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Debug\net8.0\ref\AlunoTurma.Application.UnitTests.dll
+C:\Repos\Git\aluno-turma-api\AlunoTurma\AlunoTurma.Application.UnitTests\obj\Debug\net8.0\AlunoTur.A4BED1EF.Up2Date
